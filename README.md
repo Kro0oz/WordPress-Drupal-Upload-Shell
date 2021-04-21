@@ -2,12 +2,11 @@
 WordPress & Drupal Upload Shell 
 
 
-[1] WordPress contact form 7 Upload Shell
-[2] WordPress Plugin Remote Code Execution
-
-[3] Drupal Eexloit ( xxx )
-
-
+- [ ] 
+- [ ] [1] WordPress contact form 7 Upload Shell
+- [ ] [2] WordPress Plugin Remote Code Execution
+- [ ] 
+- [ ] [3] Drupal Eexloit ( xxx )
 
 https://www.youtube.com/watch?v=EiSw2s6OoH0****
 
