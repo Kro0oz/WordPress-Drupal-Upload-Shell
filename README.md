@@ -24,6 +24,4 @@ https://www.youtube.com/watch?v=EiSw2s6OoH0****
 
 Contact me on Telegram or Twitter :)
 
-https://t.me/wisbvb
-
 https://twitter.com/1337Kro
